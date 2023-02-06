@@ -1,0 +1,28 @@
+p1{
+    font-size: 85px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p2{
+    font-size: 85px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.casestudy {
+    display: grid;
+    column-gap: 50px;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.small {
+    width: fit-content;
+}
+p2{
+    font-size: 22px;
+    font-weight: 200;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p2{
+    font-size: 40px;
+    font-style: oblique;
+}
+h1{
+    font-size: 60px;
+}

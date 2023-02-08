@@ -10,19 +10,60 @@ p2{
     display: grid;
     column-gap: 50px;
     grid-template-columns: 1fr 1fr 1fr;
+    background-color: #008080;
+    height: 550;
+    
 }
 .small {
     width: fit-content;
 }
 p2{
-    font-size: 22px;
+    font-size: 65px;
     font-weight: 200;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-p2{
-    font-size: 40px;
-    font-style: oblique;
-}
 h1{
     font-size: 60px;
+    color: white;
 }
+.h2{
+    color: white;
+}
+.small{
+    background-color: #008080;
+}
+.image{
+    background-color: #008080;
+}
+h5{
+    color: #008080;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+}
+.skills1{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+    height: 650px;
+    background: #008080;
+    border: 8px solid black;
+}
+.skills2{
+    display:flex;
+    justify-content:center;
+    align-content: center;
+    width: 100%;
+    height: 650xpx;
+    background: #c814cc;
+    border: 8px solid black
+}
+.skills3{
+display:flex;
+    justify-content:center;
+    align-content: center;
+    width: 100%;
+    height: 650px;
+    background: #cc8914;
+    border: 8px solid black}
